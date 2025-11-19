@@ -77,6 +77,7 @@ Noticed that the email PortSwigger assigned to my account contained a long uniqu
 
 ```text
 username=wiener%40exploit-<0a35005803b5c8dd8021166601660059>.exploit-server.net
+```
 
 Suspected this identifier was being used to validate the request internally.
 
